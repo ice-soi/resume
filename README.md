@@ -123,7 +123,6 @@
 ### 個人開発
 - したとき ・・・ 何かをした時間を記録できるアプリです。
     - [したとき App Store](https://apps.apple.com/jp/app/%E3%81%97%E3%81%9F%E3%81%A8%E3%81%8D/id1511441333)
-    - [したとき Google Play](https://play.google.com/store/apps/details?id=com.myapp.sitatoki&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 - きたひと ・・・ 「だれ」が「なに」をしているのかを記録できるアプリです。
     - [きたひと App Store](https://apps.apple.com/jp/app/%E3%81%8D%E3%81%9F%E3%81%B2%E3%81%A8/id1541506736)
 - つんどき ・・・ 時間を貯めるアプリです。
