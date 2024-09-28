@@ -4,9 +4,8 @@
 |key|value|
 |---|-----|
 |Name|橋本　政弥 (Hashimoto Masaya)|
-|portfolio|[ice_soi.work](https://ice-soi.work)|
 |Twitter|[@ice_soi](https://twitter.com/ice_soi)|
-|Blog|[ice_soi_blog](https://blog.ice-soi.work)|
+|Blog|[ice_soi_blog](https://ice-soi.com)|
 
 ## スキル 
 ### 言語 
@@ -129,7 +128,7 @@
 - つんどき ・・・ 貯める時間、使う時間。
     - [つんどき App Store](https://apps.apple.com/jp/app/%E3%81%A4%E3%82%93%E3%81%A9%E3%81%8D/id1560839853)
 - きのうのてんき ・・・ 昨日の天気がすぐわかる！
-    - https://kinounotenki.work
+    - https://kinounotenki.work(停止中)
 
 ### 保有資格
 |名称|取得年月|
